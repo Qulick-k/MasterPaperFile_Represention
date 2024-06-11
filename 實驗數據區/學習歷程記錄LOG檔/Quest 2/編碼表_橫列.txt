@@ -1,0 +1,58 @@
+QUEST_01	
+																				CT	EE	EE	US	SQ	CT	EE	US	EE	US	SQ	SQ	EP	EE	CT	MC	PO	MC	LM	LM	LM	LM	EE	US	US	O	O	RC	US	EE	EE	CT	EE	MC	SQ	PO	MC	LM	LM	LM	O	SQ	SQ	EP	EE	CT	MC	SQ	O	O	SQ	O	SQ	PO	US	O	O	EE	CT	EE	CT	MC	SQ	O	EE	CT	O	SQ	CT	EE	CT	CT	O	EE	CT	EE	CT	O	EE	CT	O	MC	EE	CT	CT	EE	CT	CT	US	US	US	O	SQ	CT	EE	CT	O	O	SQ	CT	EE	EE	CT	EE	CT	O	MC	US	SQ	SQ	EE	CT	O	RC	O	SQ	SQ	EE	EE	EE	MC	SQ	PO	MC	LM	LM	LM	LM	O	O	SQ	PO	SQ	SQ	SQ	SQ	EE	CT	O	SQ	SQ	SQ	SQ	EE	CT	CT	CT	MC	CT	PO	MC	CT	EE	EE	US	EE	PO	SQ	LM	LM	O	SQ	PO	O	O	PO	MC	LM	LM	EE	CT	CT	EE	EE	CT	CT	EE	PO	EE	SQ	SQ	EE	CT	CT	PO	MC	LM	CT	CT	MC	CT	SQ	SQ	EP	PO	MC	CT	CT
+
+
+																																																																																																																																																																																																																																					
+QUEST_02	
+SQ	SQ	EP	EE	SQ	SQ	EE	MC	SQ	PO	LM	LM	SQ	SQ	EP	EE	PO	MC	SQ	SQ	EP	EE	CT	MC	CT	SQ	SQ	EP	EE	CT	MC	SQ	PO	LM	EE	PO	LM	LM	PO	LM	PO	SQ	SQ	EP	EE	CT	MC	CT	US	SQ	SQ	EE	EE	MC	SQ	PO	LM	LM	LM	O	EE	CT	EE	O	US	EE	CT	O
+
+
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
+QUEST_03	
+SQ	SQ	O	O	SQ	SQ	EP	O	US	SQ	SQ	EP	EE	CT	MC	SQ	PO	LM	LM	EE	PO	LM	EE	CT	MC	SQ	SQ	EP	EE	CT	MC	LM	PO	LM	SQ	SQ	EP	PO	MC	O	RC	EE	PO	LM	O	RC	PO	O	RC	US	O	RC	SQ	EE	O	SQ	O	RC	EE	PO	SQ	SQ	SQ	SQ	US	SQ	CT	EE	CT	EE	EE	MC	SQ	CT	EE	CT	CT	EE	EE	CT	MC	SQ	SQ	EE	CT	O	EE	MC	SQ	PO	LM	LM	EE	EE	PO	CT	MC	SQ	SQ	EP	EE	CT	MC	SQ	PO	PO	LM	LM	PO	PO	LM	PO	LM	LM	LM	SQ	SQ	EP	EE	CT	MC	O	SQ	CT	EE	MC	SQ	EE	CT	MC	SQ	O	RC	O	SQ	O	SQ	RC	SQ	O	RC	O	SQ	RC	EE	MC	PO	LM	LM	EE	EE	CT	MC	SQ	SQ	EP	EE	CT	MC	PO	LM	PO	LM	PO	LM	LM	LM	LM	LM	PO	LM	LM	EE	CT	MC	EE	EE	CT	EE	CT	MC	SQ	SQ	SQ	SQ	O	SQ	O	RC	EE	CT	O	US	SQ	SQ	O	RC	CT	EE	CT	MC	EE	MC	PO	O	RC	PO	LM	LM	EE	PO	LM	EE	PO	CT	MC	EE	PO	LM	LM	PO	PO	LM	PO	LM	CT	MC	O	RC	SQ	SQ	EP	EE	CT	MC	US	SQ	CT	CT	CT	CT	LM	EE	US	US	EE	CT	EE	US	O	RC	O	RC	SQ	US	SQ	O	SQ	O	RC	EE	CT	O	SQ	O	RC	O	RC	EE	CT	US	SQ	EE	EE	MC	PO	LM	LM	LM	EE	US	O	SQ	CT	EE	EE	O	O	EE	EE	MC	PO	LM	EE	CT	CT	EE	O	SQ	SQ	EE	CT	CT	PO	EE	PO	LM	O	O	SQ	SQ	PO	EE	CT	US	SQ	EE	CT	PO	LM	LM	CT	CT	EE	CT	CT	SQ	SQ	O	US	SQ	EE	CT	EE	PO	LM	EE	PO	CT	EE	PO	EE	CT	CT	US	EE	CT	EE	CT	EE	CT	CT	O	EE	EE	EE	CT	EE	CT	EE	PO	EE	CT	MC	SQ	SQ	EP	PO	MC	CT	CT	EE	MC	SQ	EE	SQ	EE	US	US	US	SQ	SQ	CT	EE	US	US	EE	CT	SQ	SQ	EP	O
+
+
+
+
+
+QUEST_04	
+SQ	SQ	EE	SQ	SQ	CT	CT	EE	O	O	SQ	SQ	EE	US	SQ	EE	SQ	SQ	EP	PO	MC	PO	LM	LM	PO	O	SQ	CT	EE	MC	US	US	SQ	SQ	EE	CT	SQ	MC	O	RC	O	RC	EE	CT	O	RC	EE	CT	CT	SQ	SQ	EP	O	PO	LM	LM	O	RC	SQ	SQ	O	SQ	O	RC	O	EE	PO	LM	EE	PO	CT	CT	MC	O	RC	EE	CT	CT	MC	CT	PO	LM	LM	LM	PO	LM	PO	LM	LM	PO	SQ	SQ	O	RC	SQ	SQ	EP	EE	CT	MC	CT	EE	SQ	SQ	US	CT	EE	MC	CT	EE	CT	EE	MC	O	SQ	CT	EE	O	MC	RC	SQ	EP	PO	MC	PO	LM	LM	O	PO	RC	O	RC	PO	LM	EE	CT	MC	EE	CT	CT	MC	CT	SQ	SQ	SQ	EE	CT	EE	PO	EE	EE	CT	MC	EE	CT	MC	EE	CT	MC	EE	EE	O	SQ	O	RC	O	RC	O	EE	CT	CT	EE	CT	MC	EE	PO	LM	LM	PO	LM	LM	CT	O	US	US	O	O	EE	EE	CT	O	O	EE	CT	O	EE	CT	O	O	EE	O	O	SQ	O	SQ	SQ	O	CT	EE	CT	EE	EE
+
+
+																																																																																																																																																																					
+QUEST_05	
+US	CT	EE	CT	EE	US	US	US	SQ	EE	CT	EE	EE	EE	CT	CT	CT	PO	CT	PO	LM	LM	LM	LM	LM	LM	LM	LM	LM	LM	LM	LM	CT	PO	LM	LM	LM	LM	LM	LM	US	O	EE	CT	EE	US	EE	EE	MC	PO	LM	LM	LM	SQ	O	EE	EE	O	EE	CT	EE	O	CT	EE	CT	EE	O	CT	EE	US	CT	EE	EE	CT	O	US	US	O	RC	SQ	LM	EE	EE	CT	O	O	RC	O	RC	EE	O	O	O	RC	CT	EE	CT	EE	MC	EE	EE	EE	PO	LM	LM	LM	LM	LM	LM	LM	LM
+
+																																																																																																																																																																																																																																																																																																																																																																																																																																																				
+QUEST_06	
+RC	O	O	EE	CT	PO	LM	CT	EE	O	EE	CT	CT	CT	CT	CT	O	RC	EE	CT	SQ	O	SQ	O	SQ	O	SQ	O	SQ	O	EE	CT	CT	CT	CT	EE	CT	CT
+
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					
+QUEST_07	
+CT	EE	O	O	O	EE	CT	EE	US	EE	CT	CT	CT	CT	SQ	SQ	SQ	SQ	EP	EE	CT	MC	EE	CT	MC	EE	EE	EE	CT	O	O	EE	CT	EE	EE	SQ	SQ	SQ	SQ	EE	EE
+
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					
+QUEST_08	
+EE	CT	CT	MC	O	CT	EE	MC	EE	CT	O	EE	CT	CT	EE	O	EE	EE	EE	EE	O	MC	PO	LM	LM	LM	O	EE	O	EE	PO	LM	LM	EE	PO	CT	PO	CT	CT	MC	EE	CT	PO	LM	O	CT	EE	O	CT	EE	SQ	O	O	RC	O	EE	O	O	CT	EE	SQ	O	SQ	O	RC	O	EE	CT	EE	CT	PO	CT	CT	CT	PO	EE	PO	LM	LM	EE	EE	CT	CT	SQ	SQ	SQ	SQ	EE	PO	LM	LM	LM	LM	LM	LM	LM	LM	LM	LM	CT	EE	CT	US	O	EE	CT	CT	CT	CT	CT	CT	CT	CT	CT	CT	CT	CT	CT	EE	CT	PO	LM	LM	SQ	SQ	SQ	SQ	SQ	EE	EE	CT	CT	CT	EE	EE	CT	MC	EE	CT	CT	CT	CT	O	RC	O	EE	PO	LM	EE	CT	CT	EE	CT	CT	CT	CT
+
+																																																																																																																																																																																																																																																																																																																																																																																																											
+QUEST_09	
+US	US	US	US	EE	CT	O	RC	EE	CT	MC	EE	EE	MC	PO	EE	PO	SQ	SQ	EP	EE	CT	MC	CT	PO	LM	CT	CT	CT	CT	EE	CT	SQ	SQ	SQ	SQ	EP	O	O	RC	EE	O	O	RC	EE	CT	CT	CT	EE	O	EE	PO	LM	LM	LM	LM	O	PO	EE	CT	US	O	EE	PO	LM	LM	LM	LM	LM	LM	EE	PO	EE	CT	CT	CT	EE	CT	O	US	EE	CT	EE	EE	CT	EE	EE	EE	O	O	SQ	EE	EE	CT	CT	CT	CT	CT	CT	CT	SQ	LM	EE	CT	CT	CT	CT	PO	CT	PO	PO	PO	PO	EE	CT	CT	CT	CT	CT	EE	US	O	EE	EE	CT	CT	CT	CT	US	EE	CT	MC	EE	CT	EE	US	O	US	O	O	SQ	EE	CT	EE	CT	O	US	CT	EE	EE	CT	EE	EE	CT	EE	MC	PO	LM	LM	LM	LM	LM	LM	LM	O	O	PO	LM	EE	CT	EE	PO	LM	CT	PO	PO	LM	EE	EE	EE	PO	LM	EE	EE	PO	LM	EE	CT	CT	CT	PO	CT	SQ	SQ	SQ	SQ	EP	PO	MC	EE	CT	EE	CT	CT	CT	CT	O	O	CT	O	EE	CT	CT	EE	O	O	US	O	O	O	US	O	O	O	O	O	EE	CT	EE	CT	EE	EE	CT	SQ	SQ	SQ	US	US	EE	CT	PO	CT	PO	PO	LM	LM	PO	LM	O	SQ	SQ	SQ	SQ	EP	EE	CT	EE
+
+																																																																																																																																																																																																																																																																																																								
+QUEST_10	
+SQ	SQ	EP	O	O	SQ	O	O	EE	SQ	SQ	EE	EE	SQ	O	EE	CT	US	US	US	O	O	O	O	O	O	SQ	EE	SQ	SQ	SQ	SQ	SQ	SQ	SQ	EP	PO	MC	PO	LM	LM	LM	LM	LM	US	O	O	CT	O	O	EE	CT	CT	CT	CT	O	O	O	O	EE	CT	CT	CT	CT	EE	PO	LM	LM	LM	LM	LM	O	EE	RC	SQ	O	O	EE	O	US	EE	EE	EE	EE	CT	CT	US	US	US	US	US	O	US	US	US	US	US	CT	EE	CT	EE	O	O	CT	O	O	O	O	O	O	O	EE	EE	EE	EE	PO	LM	CT	EE	CT	EE	SQ	SQ	SQ	SQ	EP	EE	CT	MC	PO	EE	EE	PO	LM	EE	PO	LM	LM	EE	PO	LM	LM	LM	LM	LM	LM	LM	SQ	EE	O	EE	EE	CT	CT	PO	LM	LM	LM	EE	PO	LM	LM	O	PO	O	EE	EE	EE	PO	LM	CT	PO	O	EE	CT	CT	PO	PO	O	O	O	O	O	O	PO	O	US
+
+																																																																																																																																																																																																																																																																																																																																																																							
+QUEST_11	
+O	CT	EE	O	US	CT	EE	CT	O	O	O	EE	O	EE	CT	EE	PO	LM	LM	LM	LM	CT	CT	PO	LM	LM	LM	CT	PO	PO	LM	LM	PO	LM	LM	LM	CT	CT	PO	LM	US	US	EE	CT	EE	EE	CT	EE	PO	LM	LM	CT	EE	PO	CT	SQ	O	CT	EE	CT	O	O	O	CT	EE	SQ	O	SQ	EE	CT	O	EE	EE	CT	MC	SQ	SQ	EE	O	O	RC	EE	CT	US	EE	PO	LM	LM	LM	CT	PO	CT	SQ	SQ	SQ	SQ	EP	PO	MC	PO	LM	LM	LM	LM	LM	LM	LM	LM	LM	LM	LM	O	RC	EE	EE	O	SQ	O	O	EE	CT	CT	CT	CT	CT	SQ	EE	EE	EE	EE	CT	CT	CT	O	O
+
+																																																																																																																																																																																																																																																																																																																																																																																																																		
+QUEST_12	
+SQ	US	US	SQ	SQ	US	EE	CT	EE	CT	O	CT	EE	CT	O	EE	CT	O	EE	CT	CT	CT	CT	O	EE	CT	CT	US	SQ	SQ	SQ	EP	PO	MC	PO	LM	LM	LM	LM	EE	PO	EE	PO	LM	EE	O	EE	EE
+
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
+QUEST_13	
+O	US	CT	O	EE	O	CT	EE	US	US	CT	EE	EE	EE	EE	CT	O	O	O	O	SQ	SQ	SQ	EP	PO	MC	PO	LM	LM	LM	LM	SQ	EE	CT	PO	LM	LM	LM	CT	CT	PO	LM	LM	LM	LM	LM	LM	CT	EE	PO	LM	LM	EE	PO	SQ	SQ	SQ	EP	EE	CT	MC	CT	CT	CT	CT	CT	CT	O	RC	O	EE	SQ	US	US	US	US	CT	EE	EE	MC	EE	CT	EE	O	O	O	CT	EE	SQ	SQ	SQ	SQ	EP	EE	CT	MC	O	O	EE	CT	CT	EE	CT	EE	EE	EE	EE	EE	EE	EE	CT	PO	EE	CT	EE	MC	PO	O	EE	PO	O	O	EE	EE	PO	LM	O	O	EE	CT	CT	CT	MC	O	O	EE	CT	O	O	EE	CT	MC	CT	EE	EE	CT	MC	US	SQ	SQ	SQ	SQ
+
+																																																																																																																																																																																																																																																																																																																																																																																																										

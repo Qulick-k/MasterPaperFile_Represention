@@ -1,0 +1,20 @@
+{
+    "Items": [
+        {
+            "playerName": "1班1",
+            "playerTime": "2024/4/25 上午 01:21:02",
+            "playerActionType": "與藍色路人對話",
+            "BlueMan_Dialog": 1,
+            "RedMan_Dialog": 0,
+            "BlueMan_2_Dialog": 0,
+            "PinkMan_Dialog": 0,
+            "Zheng_Intro": 0,
+            "Zheng_Ask": 0,
+            "Ho_Intro": 0,
+            "Ho_Go": 0,
+            "Final_Win": 0,
+            "Final_Lose_LU_Hotlan": 0,
+            "Final_Lose_South_HotLan": 0
+        }
+    ]
+}

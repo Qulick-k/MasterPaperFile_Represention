@@ -1,0 +1,22 @@
+Paul, R., & Elder, L. (2006). Critical Thinking: The Nature of Socratic Questioning. Journal of Developmental Education, 30(2), 34-35.
+
+這篇文章探討了蘇格拉底式質問的本質，以及如何運用這種質問方法促進學生的批判性思維和學習。
+King, A. (1994). Guiding Knowledge Construction in the Classroom: Effects of Teaching Children How to Question and How to Explain. American Educational Research Journal, 31(2), 338-368.
+
+這篇研究探討了如何引導學生建構知識，其中包括教導他們如何提問和解釋。這對於實施蘇格拉底式質問的教學活動具有啟發性。
+Lipman, M. (2003). Thinking in Education. Cambridge University Press.
+
+這本書探討了教育中的思考過程，並提供了關於如何設計和實施蘇格拉底式對話的實用建議。
+Paul, R., & Elder, L. (2008). The Thinker's Guide to the Art of Socratic Questioning. Foundation for Critical Thinking.
+
+這本書提供了關於如何運用蘇格拉底式質問的詳細指南，包括問題的種類、提問技巧、對話的結構等。
+Lamb, S. (2007). Socratic Circles: Fostering Critical and Creative Thinking in Middle and High School. Stenhouse Publishers.
+
+這本書介紹了一種名為“蘇格拉底圈”的教學方法，該方法通過組織學生參與對話，促進批判性和創造性思維的發展。
+
+Vinyals, O., Bengio, S., & Kudlur, M. (2015). Grammar as a Foreign Language. Advances in Neural Information Processing Systems, 2773-2781.
+
+這篇論文探討了使用神經網絡生成自然語言的方法，這與蘇格拉底式的質問有關，因為這種方法可以用於回答問題和生成對話。
+Bottou, L. (2014). From machine learning to machine reasoning. Machine Learning, 94(2), 133-149.
+
+這篇文章討論了從機器學習到機器推理的過程，這與生成式AI助手和蘇格拉底式的質問都有關。

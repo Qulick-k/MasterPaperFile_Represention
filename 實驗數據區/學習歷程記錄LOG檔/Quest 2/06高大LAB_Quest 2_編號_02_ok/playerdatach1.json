@@ -1,0 +1,1194 @@
+{
+    "Items": [
+        {
+            "playerName": "1班7號",
+            "playerTime": "2024/4/23 下午 02:14:07",
+            "playerActionType": "進入第一單元",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "1班7號",
+            "playerTime": "2024/4/23 下午 02:14:14",
+            "playerActionType": "和綠色衣服男子對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "1班7號",
+            "playerTime": "2024/4/23 下午 02:15:14",
+            "playerActionType": "碰到驚嘆號",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "1班7號",
+            "playerTime": "2024/4/23 下午 02:15:14",
+            "playerActionType": "使用者進入了竹簡區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "1班7號",
+            "playerTime": "2024/4/23 下午 02:15:18",
+            "playerActionType": "使用者進入了竹簡區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "1班7號",
+            "playerTime": "2024/4/23 下午 02:15:18",
+            "playerActionType": "碰到驚嘆號",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "1班7號",
+            "playerTime": "2024/4/23 下午 02:15:21",
+            "playerActionType": "成功完成，1.認識抗荷的背景(前往竹簡)",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:51:24",
+            "playerActionType": "進入第一單元",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:51:41",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:52:23",
+            "playerActionType": "進入單元任務說明區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:52:38",
+            "playerActionType": "使用者進入了郭懷一區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:52:45",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:52:56",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:53:35",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:54:45",
+            "playerActionType": "拾取文件",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:54:58",
+            "playerActionType": "使用者進入了郭懷一區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:55:21",
+            "playerActionType": "使用者進入了甘蔗田",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:55:24",
+            "playerActionType": "成功完成，2.了解荷蘭開墾台灣的規劃(尋找甘蔗)",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:55:24",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 1,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:55:44",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 2,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:56:01",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 2,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:56:18",
+            "playerActionType": "和被荷蘭人收人頭稅並且提示郭懷一會幫助人的NPC對話",
+            "playerPickSugar": 2,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班20號",
+            "playerTime": "2024/4/25 上午 09:56:19",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 2,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班23號",
+            "playerTime": "2024/4/25 上午 10:05:19",
+            "playerActionType": "進入第一單元",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:33:17",
+            "playerActionType": "進入第一單元",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:05",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:05",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:06",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:06",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:08",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:10",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:11",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:12",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:13",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:14",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:20",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:21",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:23",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:28",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:31",
+            "playerActionType": "進入單元任務說明區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:44",
+            "playerActionType": "使用者進入了荷蘭人A區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:34:55",
+            "playerActionType": "和黑色荷蘭人說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:35:15",
+            "playerActionType": "和粉紅衣服男子甲對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:35:19",
+            "playerActionType": "和粉紅衣服男子甲對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:35:22",
+            "playerActionType": "和粉紅衣服男子甲對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:35:35",
+            "playerActionType": "和粉紅衣服男子甲對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:35:50",
+            "playerActionType": "和被荷蘭人收稅並且提示郭懷一位置的NPC對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:35:55",
+            "playerActionType": "使用者進入了荷蘭人A區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:36:03",
+            "playerActionType": "和藍色衣服男子對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:36:10",
+            "playerActionType": "和被荷蘭人逼買執照並且提示荷蘭人長官衣服顏色的漁夫NPC對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:36:11",
+            "playerActionType": "和藍色衣服男子對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:36:15",
+            "playerActionType": "和藍色衣服男子對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:36:24",
+            "playerActionType": "和被荷蘭人逼買執照並且提示荷蘭人長官衣服顏色的漁夫NPC對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:37:04",
+            "playerActionType": "使用者進入了荷蘭人B區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:37:11",
+            "playerActionType": "和藍色荷蘭人A長官說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:37:30",
+            "playerActionType": "和藍色荷蘭人A長官說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:37:30",
+            "playerActionType": "和藍色荷蘭人A長官說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:37:33",
+            "playerActionType": "和藍色荷蘭人A長官說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:37:57",
+            "playerActionType": "和粉紅衣服男子乙對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:04",
+            "playerActionType": "和提示收甘蔗荷蘭人外觀的NPC對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:06",
+            "playerActionType": "和粉紅衣服男子乙對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:17",
+            "playerActionType": "使用者進入了郭懷一區域",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:18",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:21",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:23",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:25",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:25",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:26",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:29",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:31",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:37",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:39",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:43",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:44",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:47",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:47",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:47",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:47",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:48",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:50",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:38:54",
+            "playerActionType": "拾取文件",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:39:03",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:39:10",
+            "playerActionType": "拾取文件",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:40:05",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:40:14",
+            "playerActionType": "和被荷蘭人收人頭稅並且提示郭懷一會幫助人的NPC對話",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:40:15",
+            "playerActionType": "使用者進入了甘蔗田",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:40:17",
+            "playerActionType": "成功完成，2.了解荷蘭開墾台灣的規劃(尋找甘蔗)",
+            "playerPickSugar": 0,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:40:17",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 1,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:40:27",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 2,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:40:34",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 3,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:40:41",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 4,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:40:46",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 5,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:41:00",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 6,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:41:08",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 7,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:41:26",
+            "playerActionType": "成功播放，2.甘蔗語音",
+            "playerPickSugar": 7,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:41:27",
+            "playerActionType": "成功播放，2.甘蔗語音",
+            "playerPickSugar": 7,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:41:27",
+            "playerActionType": "成功播放，2.甘蔗語音",
+            "playerPickSugar": 7,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:41:27",
+            "playerActionType": "成功播放，2.甘蔗語音",
+            "playerPickSugar": 7,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:41:28",
+            "playerActionType": "成功播放，2.甘蔗語音",
+            "playerPickSugar": 7,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:41:52",
+            "playerActionType": "成功播放，2.甘蔗語音",
+            "playerPickSugar": 7,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:42:26",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 8,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:42:48",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 8,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:43:06",
+            "playerActionType": "使用者進入了甘蔗田",
+            "playerPickSugar": 8,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:43:24",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:43:59",
+            "playerActionType": "使用者進入了甘蔗田",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:44:07",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:44:27",
+            "playerActionType": "進入單元任務說明區域",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:44:30",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:44:39",
+            "playerActionType": "使用者查看了操作說明版",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:45:24",
+            "playerActionType": "碰到驚嘆號",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:45:24",
+            "playerActionType": "使用者進入了竹簡區域",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:45:33",
+            "playerActionType": "使用者進入了荷蘭人A區域",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:45:37",
+            "playerActionType": "和黑色荷蘭人說話",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:45:47",
+            "playerActionType": "和粉紅衣服男子甲對話",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:45:49",
+            "playerActionType": "進入單元任務說明區域",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:46:05",
+            "playerActionType": "碰到驚嘆號",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:46:05",
+            "playerActionType": "使用者進入了竹簡區域",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:46:59",
+            "playerActionType": "和粉紅衣服男子甲對話",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:48:11",
+            "playerActionType": "使用者進入了荷蘭人B區域",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:48:53",
+            "playerActionType": "使用者進入了甘蔗田",
+            "playerPickSugar": 9,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:00",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 10,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:01",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 11,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:07",
+            "playerActionType": "撿取甘蔗",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:32",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:43",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:44",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:46",
+            "playerActionType": "和被荷蘭人收人頭稅並且提示郭懷一會幫助人的NPC對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:47",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:53",
+            "playerActionType": "和被荷蘭人收人頭稅並且提示郭懷一會幫助人的NPC對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:54",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:49:56",
+            "playerActionType": "和紅色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:50:24",
+            "playerActionType": "使用者進入了郭懷一區域",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:50:25",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:50:35",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:50:54",
+            "playerActionType": "撿取郭懷一人偶",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:51:08",
+            "playerActionType": "碰到驚嘆號",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:51:08",
+            "playerActionType": "使用者進入了竹簡區域",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:53:10",
+            "playerActionType": "和粉紅衣服男子甲對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:53:22",
+            "playerActionType": "使用者進入了竹簡區域",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:53:22",
+            "playerActionType": "碰到驚嘆號",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:53:27",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:53:31",
+            "playerActionType": "碰到驚嘆號",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:53:43",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:53:48",
+            "playerActionType": "碰到驚嘆號",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:53:57",
+            "playerActionType": "和粉紅衣服男子甲對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:54:08",
+            "playerActionType": "和被荷蘭人收稅並且提示郭懷一位置的NPC對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:54:15",
+            "playerActionType": "使用者進入了竹簡區域",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:54:15",
+            "playerActionType": "碰到驚嘆號",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:54:31",
+            "playerActionType": "",
+            "playerPickSugar": 12,
+            "conversationRecord": "你是一位歷史助教專門運用蘇格拉底式的質疑方式來引導學生深入思考歷史問題，以下是學生的問題:回來的人在哪裡?。請模仿蘇格拉底的質問用60字內引導學生的問題"
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:54:36",
+            "playerActionType": "",
+            "playerPickSugar": 12,
+            "conversationRecord": "當你提到「回來的人」，你在想像他們從何處回來？他們為何離開，又為何回來？你能具體描述一下嗎？"
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:54:46",
+            "playerActionType": "和綠色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:54:47",
+            "playerActionType": "",
+            "playerPickSugar": 12,
+            "conversationRecord": "你是一位歷史助教專門運用蘇格拉底式的質疑方式來引導學生深入思考歷史問題，以下是學生的問題:火人人在哪裡?。請模仿蘇格拉底的質問用60字內引導學生的問題"
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:54:59",
+            "playerActionType": "",
+            "playerPickSugar": 12,
+            "conversationRecord": "你是一位歷史助教專門運用蘇格拉底式的質疑方式來引導學生深入思考歷史問題，以下是學生的問題:荷蘭人在哪裡?。請模仿蘇格拉底的質問用60字內引導學生的問題"
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:55:00",
+            "playerActionType": "和綠色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:55:03",
+            "playerActionType": "",
+            "playerPickSugar": 12,
+            "conversationRecord": "你的問題很有趣，但我想先問，你想了解的是荷蘭人曾經在歷史上的那些地方出現和活動，還是目前在地理上的分布情況呢？"
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:55:43",
+            "playerActionType": "",
+            "playerPickSugar": 12,
+            "conversationRecord": "你是一位歷史助教專門運用蘇格拉底式的質疑方式來引導學生深入思考歷史問題，以下是學生的問題:是誰啊?。請模仿蘇格拉底的質問用60字內引導學生的問題"
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:55:47",
+            "playerActionType": "和綠色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:55:50",
+            "playerActionType": "",
+            "playerPickSugar": 12,
+            "conversationRecord": "一個非常好的問題。在你發出這個問題時，“是誰”這三個字，你心中是否想著某個特定的人物或是事件中的角色？"
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:55:53",
+            "playerActionType": "",
+            "playerPickSugar": 12,
+            "conversationRecord": "你是一位歷史助教專門運用蘇格拉底式的質疑方式來引導學生深入思考歷史問題，以下是學生的問題:荷蘭人現在的位置在哪?。請模仿蘇格拉底的質問用60字內引導學生的問題"
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:55:54",
+            "playerActionType": "和綠色衣服男子對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:55:58",
+            "playerActionType": "",
+            "playerPickSugar": 12,
+            "conversationRecord": "當你提問荷蘭人的位置時，你是在詢問他們在當代社會中的分布與影響，還是想探索他們歷史上的行蹤和成就？"
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:56:10",
+            "playerActionType": "和粉紅衣服男子甲對話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:56:13",
+            "playerActionType": "使用者進入了荷蘭人A區域",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:56:17",
+            "playerActionType": "和黑色荷蘭人說話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:56:17",
+            "playerActionType": "和黑色荷蘭人說話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:56:19",
+            "playerActionType": "和黑色荷蘭人說話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:56:47",
+            "playerActionType": "和黑色荷蘭人說話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:57:22",
+            "playerActionType": "使用者進入了郭懷一區域",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:57:23",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        },
+        {
+            "playerName": "2班4號",
+            "playerTime": "2024/4/30 下午 02:59:04",
+            "playerActionType": "和郭懷一說話",
+            "playerPickSugar": 12,
+            "conversationRecord": ""
+        }
+    ]
+}
